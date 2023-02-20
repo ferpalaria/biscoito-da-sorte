@@ -1,3 +1,5 @@
-# Projeto de estudos - Biscoito da Sorte 
+# Projeto de estudos - Biscoito da Sorte
 
-<img src=./assets/page.gif href="https://www.figma.com/community/file/1182751789348533739">
+<a href="https://www.figma.com/community/file/1182751789348533739" target="_blank"> 
+    <img src=./assets/page.gif>
+</a>
